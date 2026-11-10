@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OroTrack: A Construction Soil and Rock Inventory and Material Management System
 
 Centralized web system for **Oro Construction Soil and Rock**, Tagum City, Davao del Norte, to record, monitor, and manage construction materials (soil, sand, gravel, crushed rock): quantities, prices, stock movement, and inventory value.
@@ -41,3 +42,7 @@ Open http://localhost:8000 and sign in.
 | Management | management@example.com | management123 |
 
 Demo accounts are created only on a fresh user table (`php artisan db:seed` when no users exist).
+=======
+# ITELECT-FINAL-PROJECT-3RD
+SCHOOL PROJECT ONLY 
+>>>>>>> 9442e9d305682fff5c3db507e74f094542a7f03f
