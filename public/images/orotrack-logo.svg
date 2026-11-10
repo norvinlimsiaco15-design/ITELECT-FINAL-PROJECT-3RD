@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="OroTrack">
+  <rect width="128" height="128" rx="24" fill="#1b3a2f"/>
+  <path d="M18 86c10-28 22-40 34-40 8 0 12 6 16 14 4-16 12-26 24-26 14 0 22 14 28 36H18z" fill="#6b3f24"/>
+  <path d="M22 86c12-18 22-26 32-18 6 5 8 12 10 18H22z" fill="#c4a15a"/>
+  <path d="M70 58l22 28H52l8-14 10-14z" fill="#9aa3ad"/>
+  <path d="M78 64l10 16H66l6-8 6-8z" fill="#d7dde3"/>
+  <rect x="16" y="96" width="96" height="10" rx="5" fill="#0e241c"/>
+  <rect x="16" y="96" width="62" height="10" rx="5" fill="#e2b657"/>
+  <circle cx="78" cy="101" r="7" fill="#f4f7f5" stroke="#e2b657" stroke-width="3"/>
+</svg>
